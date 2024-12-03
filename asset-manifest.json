@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FindPair-Game--React/static/css/main.b06445ca.css",
+    "main.js": "/FindPair-Game--React/static/js/main.cad16737.js",
+    "index.html": "/FindPair-Game--React/index.html",
+    "main.b06445ca.css.map": "/FindPair-Game--React/static/css/main.b06445ca.css.map",
+    "main.cad16737.js.map": "/FindPair-Game--React/static/js/main.cad16737.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b06445ca.css",
+    "static/js/main.cad16737.js"
+  ]
+}
