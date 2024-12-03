@@ -1,0 +1,19 @@
+.gem {
+  transition: all 0.3s;
+}
+.gem:hover {
+  transform: scale(1.1);
+}
+
+.gem:disabled {
+  cursor: not-allowed;
+}
+
+.gem--hide {
+  filter: grayscale(1);
+}
+
+.gem--pair:disabled {
+  filter: grayscale(0.3);
+  cursor: not-allowed;
+}
